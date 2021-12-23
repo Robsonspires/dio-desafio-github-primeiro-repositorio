@@ -1,0 +1,13 @@
+Primeiro commit conforme instruções do curso Criando seu primeiro Repositório no GitHub para compartilhar seu progresso.
+
+Primeiros comandos:
+git status ==> mostra o status atual da branch
+
+git . ==> adiciona todos os arquivos ao repositório
+
+git status ==> Lembrete: é bom sempre verificar o status dos arquivos. ;)
+
+git commit -m "Mensagem informando as alterações ou tópico" ==> prepara o envio dos arquivos para a nuvem.
+
+git push origin main ==> Envio de fato dos arquivos para a nuvem.
+ 
